@@ -3,9 +3,11 @@
 The Industry Talk on Credence's System Development provided valuable insights into the technological framework and historical journey of Credence, a subsidiary of TM. The discussion highlighted the pivotal role of analytics, the technologies employed, and the impact on diverse fields. 
 
 ## Technology Stack:
+
 The mention of PostgreSQL, ClickHouse, Druid, Tableau, PowerBi, Metabase, SuperSet, Airflow, Spark, SQL, Python, and Bash syntax showcased a robust technology stack. This emphasizes Credence's commitment to leveraging diverse tools for efficient system development.
 
 ## Career Opportunities in Analytics:
+
 The mention of diverse career paths in analytics, ranging from business analyst to data engineer, highlighted the expanding job opportunities in the field. Credence's involvement in analytics positions it as a potential employer for professionals seeking roles in this domain.
 
 
